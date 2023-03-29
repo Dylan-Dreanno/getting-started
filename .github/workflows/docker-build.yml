@@ -16,5 +16,5 @@ jobs:
         uses: docker/build-push-action@v4.0.0
         with:
           push: true
-          tags: dylan-dreanno/getting-started:v69
+          tags: dylan-dreanno/getting-started:paslatest
           
